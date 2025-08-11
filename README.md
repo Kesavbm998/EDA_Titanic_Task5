@@ -16,7 +16,7 @@ The objective is to perform **Exploratory Data Analysis (EDA)** on a Titanic dat
 ## 📂 Files in Repository
 - `sample_titanic_dataset.csv` – Dataset used for the analysis.
 - `task5_titanic_eda.ipynb` – Jupyter Notebook containing the full EDA process.
-- `task5_titanic_report.pdf` – PDF export of the notebook with outputs and visualizations.
+- 'task5_titanic_eda.ipynb - Colab.pdf' – PDF export of the notebook with outputs and visualizations.
 - `README.md` – Documentation for the project.
 
 ---
