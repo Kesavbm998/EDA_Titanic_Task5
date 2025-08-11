@@ -1,0 +1,21 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked
+1,0,3,"Allen, Miss. Elisabeth",female,29,0,0,A/5 21171,7.25,S
+2,1,1,"Moran, Mr. James",male,22,0,0,PC 17599,71.2833,C
+3,1,3,"McCarthy, Mr. Timothy",male,54,0,0,STON/O2. 3101282,8.05,S
+4,1,1,"Palsson, Master. Gosta",male,2,1,1,113803,53.1,S
+5,0,3,"Johnson, Mrs. Oscar",female,35,1,0,373450,8.05,S
+6,0,3,"Nasser, Mrs. Nicholas",female,21,1,0,17463,13.0,S
+7,1,1,"Sandstrom, Miss. Marguerite",female,4,1,1,349909,21.075,S
+8,0,3,"Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,S
+9,1,2,"Saundercock, Mr. William",male,20,0,0,A/5. 2151,8.05,S
+10,1,1,"Andersson, Mr. Anders",male,39,1,5,347082,31.275,S
+11,0,3,"Vestrom, Miss. Hulda",female,14,0,0,350406,7.8542,S
+12,0,3,"Hewlett, Mrs. (Mary D Kingcome)",female,45,0,0,248706,16.0,S
+13,1,2,"Rice, Master. Eugene",male,2,4,1,382652,29.125,Q
+14,1,1,"Williams, Mr. Charles",male,40,0,0,244373,8.05,S
+15,0,3,"Vander Planke, Miss. Augusta",female,18,1,0,345763,9.5,S
+16,0,3,"Masselmani, Mrs. Fatima",female,33,0,0,2649,7.225,C
+17,1,1,"Fynney, Mr. Joseph",male,35,0,0,239865,7.8958,Q
+18,0,2,"Beesley, Mr. Lawrence",male,34,0,0,248698,13.0,S
+19,1,1,"McGowan, Miss. Anna",female,15,0,0,330923,8.0292,Q
+20,0,3,"Sloper, Mr. William",male,28,0,0,113788,35.5,S
